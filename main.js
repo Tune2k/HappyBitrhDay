@@ -1,5 +1,5 @@
 // Thay đổi nội dung búc thư ở đây
-var letterContent ="Chúc mừng sinh nhật em nhé! Cảm ơn em vì đã từng là một phần quan trọng trong những ngày tháng trước đây của anh. Dù bây giờ mỗi người có con đường riêng, nhưng anh vẫn luôn nhớ những kỷ niệm đáng yêu và vui vẻ đó. Chúc em tuổi mới thật nhiều niềm vui, sức khỏe, và luôn hạnh phúc với những gì em chọn. Hãy tận hưởng ngày đặc biệt của mình thật vui vẻ nhé! Anh chỉ muốn chúc mừng sinh nhật em thôi đừng suy nghĩ nhiều nha.😊"
+var letterContent ="Chúc mừng sinh nhật! 🎂💖 Chúc bạn luôn tươi cười, rạng rỡ và hạnh phúc. Mong rằng tuổi mới sẽ mang đến thật nhiều niềm vui, thành công và những điều tuyệt vời nhất trong cuộc sống! 🎉✨"
 
 // Tốc độ viết chữ. Số càng nhỏ tốc độ càng nhanh. 50 là tốc độ khá phù hợp
 durationWrite = 50 
